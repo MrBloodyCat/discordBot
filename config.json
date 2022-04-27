@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "bots.server-discord": "",
+        "boticord": "",
+        "token": "",
+        "prefix": ""
+    }
+}

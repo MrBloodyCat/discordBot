@@ -1,0 +1,6 @@
+pip
+asyncio
+discord.py
+requests
+boticordpy
+yarl
